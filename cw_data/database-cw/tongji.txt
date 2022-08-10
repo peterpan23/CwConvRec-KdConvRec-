@@ -1,0 +1,5 @@
+attraction: 465
+hotel: 1133
+restaurant: 951
+metro: 2649
+taxi
